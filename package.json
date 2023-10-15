@@ -1,0 +1,23 @@
+{
+  "name": "controle-estoque",
+  "version": "0.0.1",
+  "description": "Projeto para controle de estoque",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/andradecaua/controle-estoque.git",
+  "author": "Cauã Andrade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andradecaua/controle-estoque/issues"
+  },
+  "homepage": "https://github.com/andradecaua/controle-estoque#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.17",
+    "typescript": "^5.2.2"
+  }
+}
